@@ -1,0 +1,2 @@
+Hello {name 1}, my name is {adjective 1} Jimmy
+Can you hand me that {adjective 2} {noun 1}?
